@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Im Aaron, Im do all things softwrae engineering mainly with NodeJs and Python. I have a keen interesting in DevOps and automating with these languages and trying to run software easier and at sale with automation tools like kvm, containers and all other virtualization options.
+My name is Aaron. I work in software engineering, mainly with NodeJs and Python applications. I'm also trying to automate related tasks using DevOps. Over the past six years, I have been working in the Australian banking and finance sector, helping teams deploy and run applications in AWS and Azure clouds.
 
-If you wanna see some of the other stuff im doing around the web check out my links below:
+If you want to see some of the other stuff I'm doing around the web, check out my links below:
 
-* I write about software and coding on medium [Medium](https://medium.com/@aaron-kt-berry) or subscribing via [Email](https://aaron-kt-berry.medium.com/subscribe).
-* If your in the market for homelab or home server gear consider checking out [Server Labs Aus.](https://serverlabs.com.au/) for your next purchase.
-* If you have interesting work or ideas get in touch at my [Email](mailto:aaron.berry@ab-consulting.dev) or [LinkedIn](https://www.linkedin.com/in/aaron-kt-berry/) to chat about it.
+* I do technical writing on some of the interesting problems I'm enjoying solving, and you can read about them [here](); I am also available for work, so feel free to [reach out]().  
+* If you have interesting software projects, ideas or opportunities, contact me via [Email](mailto:aaron.berry@ab-consulting.dev) or [LinkedIn](https://www.linkedin.com/in/aaron-kt-berry/) to discuss them.
+* If you are in the homelab or home server gear market, consider checking out [Server Labs Aus.](https://serverlabs.com.au/) for your next purchase.
